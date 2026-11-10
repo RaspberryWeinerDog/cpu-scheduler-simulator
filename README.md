@@ -1,1 +1,1 @@
-# cpu-scheduler-algorithms
+# cpu-scheduler-simulator
